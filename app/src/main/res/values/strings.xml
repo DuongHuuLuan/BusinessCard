@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="full_name">Duong Huu Luan</string>
+    <string name="title">Android Developer</string>
+    <string name="phone">+84 (32) 518 272</string>
+    <string name="email1">"@AndoidDev"</string>
+    <string name="email2">huuluanaa@gmail.com</string>
+</resources>
